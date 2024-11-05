@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+
 import cv2
 
 def find_aruco_dictionary_code():

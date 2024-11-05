@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # This code does the following:
 # - Prints a strip of copies of a specified count, tag, size and resolution
 # - Generates the ARuco markers using a specific dictionary.
