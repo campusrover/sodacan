@@ -15,7 +15,7 @@ import numpy as np
 
 ppi = 72  # pixels per inch
 tag_count = 4
-strip_length_inch = 8.25
+strip_length_inch = 18.25
 strip_height_inch = 3.4
 tag_height_inch = 3.0
 
